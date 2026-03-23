@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+data_pt.pkl
+normalizer.pt
+dynamics_pt.pth
+models/
